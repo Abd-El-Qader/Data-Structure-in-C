@@ -1,0 +1,12 @@
+{
+                  "files.associations": {
+                                    "stack.h": "c",
+                                    "stdlib.h": "c",
+                                    "stdio.h": "c",
+                                    "math.h": "c",
+                                    "stack2.h": "c",
+                                    "deque": "cpp",
+                                    "stack": "cpp",
+                                    "format": "cpp"
+                  }
+}
